@@ -162,7 +162,7 @@ sendEmail({
 
     
 
-    <p style="font-size: 18px; line-height: 1.6; margin-bottom: 25px; text-align: center;">Gracias por registrarte en nuestra aplicación. Para verificar su cuenta, haga clic en el siguiente enlace:</p>
+    <p style="font-size: 18px; line-height: 1.6; margin-bottom: 25px; text-align: center;">Recibimos tu solicitud. Para cambiar su contraseña, haga clic en el siguiente enlace:</p>
 
     
 
